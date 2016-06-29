@@ -2,7 +2,7 @@
     "name": "developerforce/force.com-toolkit-for-php",
     "description": "A wrapper for the Force.com Web Services SOAP API",
     "license": "BSD-3-Clause",
-    "version": "27.0.3" 
+    "version": "27.0.3",
     "autoload": {
         "classmap": [
            "soapclient"
