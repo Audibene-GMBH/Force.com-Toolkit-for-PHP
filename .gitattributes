@@ -1,0 +1,4 @@
+* text eol=lf
+*.phar binary
+tests/*          export-ignore
+.gitattributes   export-ignore
