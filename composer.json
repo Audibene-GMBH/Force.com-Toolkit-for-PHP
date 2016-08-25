@@ -2,7 +2,7 @@
     "name": "audibene/salesforce-php",
     "description": "A wrapper for the Force.com Web Services SOAP API",
     "license": "BSD-3-Clause",
-    "version": "27.0.3",
+    "version": "27.0.4",
     "autoload": {
         "classmap": [
            "soapclient"
